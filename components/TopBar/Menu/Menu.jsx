@@ -23,7 +23,6 @@ import {
   Circle,
   Delete,
   Folder,
-  Github,
   Save,
   Video,
 } from "lucide-react";
@@ -171,19 +170,6 @@ const Menu = () => {
                 <span>Stop Recording</span>
               </DropdownMenuItem>
             ) : null}
-
-            <DropdownMenuItem
-              onClick={() => {
-                window.open(
-                  "https://github.com/dhruvpatidar359/",
-                  "_blank",
-                  "noreferrer"
-                );
-              }}
-            >
-              <Github className="mr-2 h-4 w-4" />
-              <span>Github</span>
-            </DropdownMenuItem>
           </DropdownMenuGroup>
           <DropdownMenuSeparator />
           <DropdownMenuGroup>
