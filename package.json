@@ -40,7 +40,7 @@
     "global": "^4.4.0",
     "lodash": "^4.17.21",
     "lucide-react": "^0.323.0",
-    "next": "^14.1.1",
+    "next": "14.2.35",
     "next.js": "^1.0.3",
     "perfect-freehand": "^1.2.0",
     "react": "^18.2.0",
