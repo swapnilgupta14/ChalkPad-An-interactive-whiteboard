@@ -1,0 +1,27 @@
+# Collaborative Whiteboard
+
+> Open-source real-time collaborative whiteboard.
+
+## Project documentation
+
+- README.md: Project overview and setup.
+- CONTRIBUTING.md: Contribution guidelines.
+- AGENTS.md: AI coding agent instructions.
+- docs/ARCHITECTURE.md: System architecture.
+- docs/REALTIME.md: Socket.IO communication.
+- docs/CANVAS.md: Canvas rendering and elements.
+- docs/DEVELOPMENT.md: Development environment.
+- docs/ROADMAP.md: Planned improvements.
+
+## Development
+
+The application uses a shared canvas model and
+real-time collaboration.
+
+Read the relevant architecture documentation
+before modifying core functionality.
+
+## Contribution
+
+Both human and AI-assisted contributions are
+welcome. Follow CONTRIBUTING.md.
